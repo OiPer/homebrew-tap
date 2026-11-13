@@ -1,7 +1,7 @@
 cask "oiper" do
   on_arm do
-    version "0.1.41"
-    sha256 "053a4b5b73671e15cc1701a8110d2a39ceee9b4936ca2dd83628f77d7d461ce0"
+    version "0.1.42"
+    sha256 "d5414ff25b2c5424ed3f9bc6294f41b14c13828b97849c7352fbe117cfa08707"
 
     url "https://github.com/oiper/desktop/releases/download/v#{version}/OiPer_#{version}_aarch64.dmg"
   end
